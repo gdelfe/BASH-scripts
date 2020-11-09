@@ -5,3 +5,5 @@ get_act_time_series: it extract the active time series from the fMRI image BOLD 
 extract_data: it extract all the active voxels from the brain fMRI image, course grain them, and marges the value of the voxel coordinates with their corresponding correlation value
 
 outside_brain: something that is wrong here 
+
+scritp_perch: you can continue writing stuff here 
